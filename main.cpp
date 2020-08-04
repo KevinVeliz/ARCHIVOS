@@ -3,6 +3,7 @@
 #include <fstream>
 using namespace std;
 
+// TRABAJO GRUPAL
 int main()
 {
     int e;
